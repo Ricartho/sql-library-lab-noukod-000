@@ -13,7 +13,7 @@ create table subgenres(
 );
 
 create table authors(
-    id INTEGER primary key
+    id INTEGER primary key,
     name TEXT
     
 );
